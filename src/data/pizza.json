@@ -1,0 +1,45 @@
+[{
+        "id": "001",
+        "name": "John Doe",
+        "type": "veg",
+        "size": "medium",
+        "category": "classic",
+        "available": true,
+        "ingredients": ["Pepperoni", "olives", "mushrooms"]
+    }, {
+        "id": "002",
+        "name": "John Doe",
+        "type": "veg",
+        "size": "large",
+        "category": "classic",
+        "available": true,
+        "ingredients": ["Tomato sauce", "tomatoes", "olive oil "]
+    },
+    {
+        "id": "003",
+        "name": "John Doe",
+        "type": "veg",
+        "size": "medium",
+        "category": "classic",
+        "available": true,
+        "ingredients": ["Pepperoni", "olives", "mushrooms"]
+    },
+    {
+        "id": "004",
+        "name": "John Doe",
+        "type": "veg",
+        "size": "medium",
+        "category": "classic",
+        "available": true,
+        "ingredients": ["Pepperoni", "olives", "mushrooms"]
+    },
+    {
+        "id": "005",
+        "name": "John Doe",
+        "type": "veg",
+        "size": "medium",
+        "category": "classic",
+        "available": true,
+        "ingredients": ["Pepperoni", "olives", "mushrooms"]
+    }
+]
